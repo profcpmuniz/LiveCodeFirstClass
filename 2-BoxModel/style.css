@@ -1,0 +1,38 @@
+.allequals{
+    margin: 20px;
+    padding: 30px;
+    border: 2px solid;
+}
+.allequals-2{
+    margin: 0px;
+    padding: 30px;
+    border: 2px solid;
+}
+
+.allequals-3{
+    margin: 0px;
+    padding: 0px;
+    border: 2px solid;
+}
+
+.allequals-4{
+    margin: 0px;
+    padding-left: 30px;
+    border: 2px solid;
+}
+
+.allequals-5{
+    margin: 0px;
+    padding: 30px 10px 0px 30px ;
+    
+    border: 2px solid;
+}
+
+.header2{
+    background-color: wheat;
+}
+#header3{
+    background-color: yellow;
+}
+
+
